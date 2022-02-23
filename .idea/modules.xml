@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/L10_Projekt/L10_Projekt.iml" filepath="$PROJECT_DIR$/L10_Projekt/L10_Projekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L1_Recursion/L1_Recursion.iml" filepath="$PROJECT_DIR$/L1_Recursion/L1_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L2_Recursion/L2_Recursion.iml" filepath="$PROJECT_DIR$/L2_Recursion/L2_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L3_Del_Loes/L3_Del_Loes.iml" filepath="$PROJECT_DIR$/L3_Del_Loes/L3_Del_Loes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L4_Tidskompleksitet/L4_Tidskompleksitet.iml" filepath="$PROJECT_DIR$/L4_Tidskompleksitet/L4_Tidskompleksitet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L5_CollectionFramework/L5_CollectionFramework.iml" filepath="$PROJECT_DIR$/L5_CollectionFramework/L5_CollectionFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L6_Lambda/L6_Lambda.iml" filepath="$PROJECT_DIR$/L6_Lambda/L6_Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L7_Patterns/L7_Patterns.iml" filepath="$PROJECT_DIR$/L7_Patterns/L7_Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L8_Git/L8_Git.iml" filepath="$PROJECT_DIR$/L8_Git/L8_Git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L9_Calc/L9_Calc.iml" filepath="$PROJECT_DIR$/L9_Calc/L9_Calc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L9_Forsikring/L9_Forsikring.iml" filepath="$PROJECT_DIR$/L9_Forsikring/L9_Forsikring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L9_Opgave_2/L9_Opgave_2.iml" filepath="$PROJECT_DIR$/L9_Opgave_2/L9_Opgave_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L9_Skole_Opgave/L9_Skole_Opgave.iml" filepath="$PROJECT_DIR$/L9_Skole_Opgave/L9_Skole_Opgave.iml" />
+    </modules>
+  </component>
+</project>
